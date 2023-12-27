@@ -6,13 +6,11 @@ For the past 5 years, I have been involved in data analysis at a scientific rese
 
 ## Project 
 <ol>
-  <li>
-    <a href="https://github.com/ChojdiMag/python_project">11 small projects in Python using PyCharm(random,turtle)</a>
-    <a href="https://github.com/ChojdiMag/pandas-seaborn-matplot-numpy">Pandas,Seaborn,Matplotlib,Cufflinks,Sklearn</a>
-    <a hred="https://github.com/ChojdiMag/machine-learning">Sklearn,ML method</a>
-    <a href="https://github.com/ChojdiMag/html-css">HTML+CSS</a>
-    <a href="https://github.com/ChojdiMag/approval-templates">Sheets used in approvals</a>
-  </li>
+  <li><a href="https://github.com/ChojdiMag/python_project">11 small projects in Python using PyCharm(random,turtle)</a></li>
+  <li><a href="https://github.com/ChojdiMag/pandas-seaborn-matplot-numpy">Pandas,Seaborn,Matplotlib,Cufflinks,Sklearn</a></li>
+  <li><a href="https://github.com/ChojdiMag/machine-learning">Sklearn,ML method</a></li>
+  <li><a href="https://github.com/ChojdiMag/html-css">HTML+CSS</a></li>
+  <li><a href="https://github.com/ChojdiMag/approval-templates">Sheets used in approvals</a></li> 
 </ol>
 
 
