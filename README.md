@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 <p>I am a scientist with a passion for machine learning and data analysis.
-For the past 5 years, I have been involved in data analysis at a scientific research institution. My main occupation is conducting brake system tests and endurance tests along with analyses and compilation of results. I use Python on a daily basis with an emphasis on Pandas, Numpy, Matplotlib and Seaborn. I create elaborate reports in Power Bi. In addition, I am constantly developing my skills. I participate in numerous courses. After work I take care of two dogs, who are very demanding, not to be confused with spoiled ;-) </p>
+For the past 5 years, I have been involved in data analysis at a scientific research institution. My main occupation is conducting aproval brake system tests and endurance tests along with analyses and compilation of aprooval results. I use Python on a daily basis with an emphasis on Pandas, Numpy, Matplotlib and Seaborn. I create elaborate reports in Power Bi. In addition, I am constantly developing my skills. I participate in numerous courses. After work I take care of two dogs, who are very demanding, not to be confused with spoiled ;-) </p>
 
 ## Project 
 <ol>
